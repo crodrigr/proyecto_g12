@@ -2,7 +2,8 @@
 
 ## 1. Descripción del proyecto. 
 
-- Objetivo General
-- Objetivos Especificos
-- Requerimientos Funcionales
-- Requermientos no Funcionales
+- Objetivo General.
+- Objetivos Especificos.
+- Requerimientos Funcionales.
+- Requermientos no Funcionales.
+- Definición de proyecto en scrum con sus Epicas, Historias de usuarios y tares. 
